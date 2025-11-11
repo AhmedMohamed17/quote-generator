@@ -79,3 +79,21 @@ h1{
     grid-column: 2/4;
     grid-row: 1;
 }
+.share-buttons button {
+      padding: 8px;
+    margin: 5px;
+    background-color: #262834;
+    color: #e3e3e3;
+     border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.share-buttons {
+    margin-top: 10px;
+}
+.share-buttons button:hover {
+    background-color: #e3e3e3;
+
+    color: #262834;
+
+}
